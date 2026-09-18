@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://victorhumenhuk.github.io/isitlocked-support/sitemap.xml
